@@ -47,4 +47,4 @@ Run the script:
 
 ## Author
 
-Afrana M
+Afrana
